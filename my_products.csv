@@ -1,0 +1,52 @@
+﻿product_id;group_id;product_name;product_price
+45;23;ven;2100
+46;23;cooker hood;2600
+47;23;kitchen counter;1800
+48;23;dish rack;100
+49;23;cupboard;1400
+50;23;cabinet;160
+51;23;kitchen table;1300
+52;23;fridge;3400
+53;23;freezer;1200
+54;23;sink;800
+55;23;cooker;2100
+56;23;gas stove;2300
+57;23;electric range;2200
+58;23;induction cooker;2900
+59;45;plate;8
+60;45;bowl;13
+61;45;glass;7
+66;45;mug;14
+67;45;cup;9
+68;45;spoon;18
+69;45;teaspoon;10
+70;45;fork;14
+71;45;knife;16
+72;45;place mat;9
+73;45;saucer;8
+74;81;pot;89
+75;81;pan;70
+76;81;napkin;5
+77;81;cake tin;30
+78;81;dipper;11
+79;81;roasting pan;120
+80;81;teapot;110
+81;81;bread bin;120
+82;81;chopping board;30
+83;81;electric kettle;120
+84;81;spatula;13
+85;81;oven glove;6
+86;81;mill;210
+87;81;mixer;180
+88;81;grater;5
+89;81;garlic press;14
+90;81;jar opener;48
+91;81;can opener;21
+92;81;colander;24
+93;81;peeler;18
+94;81;egg cooker;14
+95;81;beater;8
+96;81;whisk;7
+97;81;rolling pin;12
+98;81;ice tray;50
+99;81;deep fryer;75
